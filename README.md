@@ -2,7 +2,7 @@
 
 Plank's autohide is triggered too easily by mistake, unlike the dock in Mac OS or Docky, which both have outer padding that prevents this. This transparent theme adds sufficient padding (at least for me), and nothing else.
 
-# Installing
+## Installing
 
 You just have to put it in ~/.local/share/plank/themes or /usr/share/plank/themes
 
