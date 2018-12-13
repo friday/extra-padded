@@ -1,0 +1,12 @@
+[PlankTheme]
+LineWidth=0
+FillStartColor=255;;255;;255;;0
+FillEndColor=255;;255;;255;;0
+
+[PlankDockTheme]
+HorizPadding=8
+TopPadding=12
+BottomPadding=2.5
+ItemPadding=2.5
+IndicatorSize=2.5
+IconShadowSize=10
